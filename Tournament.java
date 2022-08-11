@@ -1,7 +1,7 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+ */Este archivo ejecutable maneja las clases que nos pidieron que propusieramos:los cuales son Coach,Team,Sporty
 package Manager2;
  //importacion de las clases
 import MisClases.Coach;
