@@ -1,4 +1,4 @@
-
+//Este ejecutable maneja las clases propuestas por sofka del taller 1 las cuales son cuenta bancaria,frutas,y persona y nos piden hacerlas en ingles
 package Manager1;
 //importacion de las clases
 import ClasesSofka.BankAccount;
